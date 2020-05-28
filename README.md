@@ -1,4 +1,4 @@
-# Web_Scarp_Flipkart_Reviews
+# WebScrap_Flipkart_Reviews
 This repo contains my web scraping project to extract reviews of iphone from a website. For beginners, web scraping is a term used to describe the use of a program or algorithm to extract and process large amounts of data from the web.
 
 Beautiful Soup 
