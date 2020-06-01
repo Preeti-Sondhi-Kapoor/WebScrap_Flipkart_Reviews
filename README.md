@@ -11,7 +11,8 @@ MongoDB has been used as a Database to store all the retrieved reviews and comme
 
 Deployement on Heroku 
 
-Type iphone and get the reviews https://reviewscraper-demo.herokuapp.com/ 
+Type iphone and get the reviews 
+https://reviewscraper-demo.herokuapp.com
 
 CAUTION
 
