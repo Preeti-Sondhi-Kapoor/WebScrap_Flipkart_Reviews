@@ -10,7 +10,7 @@ google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 grpcio==1.28.1
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 Markdown==3.2.1
